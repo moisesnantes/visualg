@@ -1,11 +1,11 @@
 //
 //
 Algoritmo "CHECA_CPF"
-// Disciplina  : [Linguagem e Lógica de Programação] 
+// Disciplina  : [Algoritmos 1]
 // Professor(a): MoisesNR
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descrição   :
 // Autor(a)    : Nome do(a) aluno(a) EU
-// Data atual  : 27/09/2015
+// Data atual  : 01/07/2022
 Var
 // Seção de Declarações das variáveis 
      flag,XTECLA : logico
